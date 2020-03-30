@@ -22,3 +22,8 @@ Crear un HUD que muestre al menos 3 de las siguientes cosas:
 ○ La vida del player.
 ○ Tiempo transcurrido desde que empezó la partida.
 
+
+(1p)
+​
+Crear al menos 2 animaciones para los elementos de HUD.
+
