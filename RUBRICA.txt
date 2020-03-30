@@ -30,3 +30,12 @@ Cambio color para la imagen de fondo del timer.
 
 0.5 Crear alguna funcionalidad entre las siguientes en el Level Blueprint:
 Restart Game - pulsar P
+
+
+(1p)Crear una secuencia que contenga al menos 4 de las siguientes
+opciones:
+○ Pincha una nueva cámara
+○ Bloquea los controles del player
+○ Lanza un evento en el HUD --(cambia el color del texto Keys
+
+La secuencia se activa al pulsar left mouse button.
