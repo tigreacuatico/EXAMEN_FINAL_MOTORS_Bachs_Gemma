@@ -42,8 +42,8 @@
 *.VC.opendb
 
 # Precompiled Assets
-SourceArt/**/*.png
-SourceArt/**/*.tga
+SourceArt//*.png
+SourceArt//*.tga
 
 # Binary Files
 Binaries/*
@@ -54,11 +54,11 @@ Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
-Build/*/**
+Build/*/
 !Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
-!Build/**/*.ico
+!Build//*.ico
 
 # Built data for maps
 *_BuiltData.uasset
