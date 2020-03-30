@@ -1,0 +1,17 @@
+(0,5p)
+​Crear un Terrain como base jugable, texturizado y con vegetación.
+
+(0,5p) ​Todas las entradas nuevas de input (crear al menos 2) deberán estar
+mapeadas con Actions/Axis en vez de por eventos directos de
+teclado/mouse
+
+Pause
+Shoot
+
+(1p) ​Crear al menos 3 triggers con diferentes funcionalidades de entre las
+siguientes opciones:
+○ Item recolectable.
+○ Zona de muerte.
+Lanza una secuencia
+
+
