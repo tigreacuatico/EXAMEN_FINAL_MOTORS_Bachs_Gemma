@@ -37,5 +37,6 @@ opciones:
 ○ Pincha una nueva cámara
 ○ Bloquea los controles del player
 ○ Lanza un evento en el HUD --(cambia el color del texto Keys
+○ Mueve algún elemento de la escena ( no me ha dado tiempo a terminarlo, pero hay código hecho con la idea de que mueva el BP_Object (el cubo grande
 
 La secuencia se activa al pulsar left mouse button.
