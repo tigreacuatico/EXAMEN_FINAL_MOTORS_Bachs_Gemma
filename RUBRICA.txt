@@ -1,35 +1,32 @@
-(0,5p)
-​Crear un Terrain como base jugable, texturizado y con vegetación.
+(0,5p)Crear un Terrain como base jugable, texturizado y con vegetación.
 
 (0,5p) ​Todas las entradas nuevas de input (crear al menos 2) deberán estar
 mapeadas con Actions/Axis en vez de por eventos directos de
 teclado/mouse
-
-Pause
-Shoot
-DayNight (para el ejercicio de la simulación de luz
+DayNight (para el ejercicio de la simulación de luz - E
+Restart Game -P
 
 (1p) ​Crear al menos 3 triggers con diferentes funcionalidades de entre las
 siguientes opciones:
-○ Item recolectable.
-○ Zona de muerte.
-Lanza una secuencia
+○ Item recolectable.--el cilindrio Key es el ítem
+○ Zona de muerte.--es el rectangulo
+○ Lanza una secuencia -se activa cuando pasas por debajo de la luz roja de la esquina 
 
-(0,5p)
-​
-Iluminar el escenario con al menos 3 tipos diferentes de luces. Y
+(0,5p)Iluminar el escenario con al menos 3 tipos diferentes de luces. Y
 implementar una simulación del ciclo de día/noche.
+Para la simulación hay que ir pulsando la letra E.
 
 
-1p)
-​
-Crear un HUD que muestre al menos 3 de las siguientes cosas:
-○ Cantidad de ítems recogidos.
-○ La vida del player.
-○ Tiempo transcurrido desde que empezó la partida.
+1p)Crear un HUD que muestre al menos 3 de las siguientes cosas:
+○ Cantidad de ítems recogidos.--en la parte superior izquierda
+○ La vida del player. --pulsar Z para bajar vida player
+○ Tiempo transcurrido desde que empezó la partida.--en la parte superior izquierda
 
 
-(1p)
-​
-Crear al menos 2 animaciones para los elementos de HUD.
+(1p)Crear al menos 2 animaciones para los elementos de HUD.
+Fade para la imagen de fondo de las keys.
+Cambio color para la imagen de fondo del timer.
 
+
+0.5 Crear alguna funcionalidad entre las siguientes en el Level Blueprint:
+Restart Game - pulsar P
